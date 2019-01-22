@@ -1,0 +1,10 @@
+bdl-dataset-validate
+
+Usage:
+  bdl-dataset-validate <dataset>
+  bdl-dataset-validate --help
+  bdl-dataset-validate --version
+
+Options:
+  -h, --help       Show this screen.
+  -v, --version    Print the current version.

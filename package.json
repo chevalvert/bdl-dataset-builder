@@ -1,0 +1,44 @@
+{
+  "name": "bdl-dataset-builder",
+  "version": "0.0.1",
+  "description": "build and validate \"bassins de lumière\" datasets",
+  "main": "index.js",
+  "bin": {
+    "bdl-dataset-validate": "./bin/validate.js",
+    "bdl-dataset-build": "./bin/build.js"
+  },
+  "_moduleAliases": {
+    "@abstractions": "./lib/abstractions/",
+    "@configuration": "./lib/configuration",
+    "@lib": "./lib/",
+    "@utils": "./lib/utils/"
+  },
+  "author": "Arnaud Juracek",
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/chevalvert/bdl-dataset-builder#readme",
+  "bugs": {
+    "url": "https://github.com/chevalvert/bdl-dataset-builder/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:chevalvert/bdl-dataset-builder.git"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs-extra": "^7.0.1",
+    "gtran-kml": "^1.2.2",
+    "module-alias": "^2.1.0",
+    "package": "^1.0.1",
+    "rc": "^1.2.8"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.15.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "extract-streetview": "^1.2.0"
+  }
+}

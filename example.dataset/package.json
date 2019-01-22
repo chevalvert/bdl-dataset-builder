@@ -1,0 +1,9 @@
+{
+  "name": "vert1",
+  "version": "0.0.1",
+  "description": "This is a short description of this dataset",
+  "files": {
+    "map": "map.svg",
+    "features": "features.kml"
+  }
+}

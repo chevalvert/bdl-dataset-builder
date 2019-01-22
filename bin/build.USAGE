@@ -1,0 +1,17 @@
+bdl-dataset-build
+
+Usage:
+  bdl-dataset-build <dataset>
+  bdl-dataset-build --help
+  bdl-dataset-build --version
+
+Options:
+  -h, --help                  Show this screen.
+  -v, --version               Print the current version.
+
+  --flipCoordinates           Flip features coordinates array when building
+                              GeoJson.
+  --extractStreetview         Create a panoramas/ folder containing a scrapped
+                              streetview image per feature coordinates.
+  --extractStreetviewZoom     Set the streetview zoom level from 1 to 4
+                              (default is 2).

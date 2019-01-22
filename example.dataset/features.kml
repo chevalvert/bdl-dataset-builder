@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="indics" id="indics">
+  <SimpleField name="gid" type="int"></SimpleField>
+  <SimpleField name="svf" type="float"></SimpleField>
+  <SimpleField name="area" type="float"></SimpleField>
+  <SimpleField name="perimeter" type="float"></SimpleField>
+</Schema>
+<Folder><name>indics</name>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">-1</SimpleData>
+    <SimpleData name="svf">0.871138195081923</SimpleData>
+    <SimpleData name="area">22245.660610037044535</SimpleData>
+    <SimpleData name="perimeter">698.772838589330490</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55806212679383,47.2125321495437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">-2</SimpleData>
+    <SimpleData name="svf">0.846033170294239</SimpleData>
+    <SimpleData name="area">19990.739019377680961</SimpleData>
+    <SimpleData name="perimeter">721.671443696639926</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55786673044261,47.2127367086543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">0</SimpleData>
+    <SimpleData name="svf">0.836022837573967</SimpleData>
+    <SimpleData name="area">18611.309502295909624</SimpleData>
+    <SimpleData name="perimeter">684.585568611880717</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55761212396517,47.2128563667758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">1</SimpleData>
+    <SimpleData name="svf">0.818328986785193</SimpleData>
+    <SimpleData name="area">18234.960624701318011</SimpleData>
+    <SimpleData name="perimeter">723.009818820366945</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55731915945977,47.2129804341123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">2</SimpleData>
+    <SimpleData name="svf">0.818856505847589</SimpleData>
+    <SimpleData name="area">18713.784719832117844</SimpleData>
+    <SimpleData name="perimeter">730.143904569897586</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55702619360328,47.2131045007022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">3</SimpleData>
+    <SimpleData name="svf">0.813047353096016</SimpleData>
+    <SimpleData name="area">18410.201058138474764</SimpleData>
+    <SimpleData name="perimeter">686.990201974269326</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55673322639568,47.2132285665455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">4</SimpleData>
+    <SimpleData name="svf">0.802537184680154</SimpleData>
+    <SimpleData name="area">18291.887940393826284</SimpleData>
+    <SimpleData name="perimeter">724.359301604243342</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55644025783698,47.2133526316422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">5</SimpleData>
+    <SimpleData name="svf">0.785913119682593</SimpleData>
+    <SimpleData name="area">17069.080059759598953</SimpleData>
+    <SimpleData name="perimeter">595.279196155697718</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55614728792718,47.2134766959923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">6</SimpleData>
+    <SimpleData name="svf">0.784178352658809</SimpleData>
+    <SimpleData name="area">17307.049928504038689</SimpleData>
+    <SimpleData name="perimeter">597.151969340452524</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55585431666627,47.2136007595958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">7</SimpleData>
+    <SimpleData name="svf">0.802049453545506</SimpleData>
+    <SimpleData name="area">18322.322865548998379</SimpleData>
+    <SimpleData name="perimeter">679.225044094065765</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55556134405426,47.2137248224526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">8</SimpleData>
+    <SimpleData name="svf">0.822210898652557</SimpleData>
+    <SimpleData name="area">19274.861437441915768</SimpleData>
+    <SimpleData name="perimeter">738.888438511912682</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55526837009114,47.2138488845628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">9</SimpleData>
+    <SimpleData name="svf">0.790107239270165</SimpleData>
+    <SimpleData name="area">18581.407466970289533</SimpleData>
+    <SimpleData name="perimeter">721.805822401710202</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55531250376004,47.2140327678835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">10</SimpleData>
+    <SimpleData name="svf">0.684754993621819</SimpleData>
+    <SimpleData name="area">13974.035274969941383</SimpleData>
+    <SimpleData name="perimeter">627.166921160710103</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55547944688216,47.2142384439722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">11</SimpleData>
+    <SimpleData name="svf">0.651489944028466</SimpleData>
+    <SimpleData name="area">10424.813544181133693</SimpleData>
+    <SimpleData name="perimeter">636.541850802038084</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55564639128065,47.2144441198039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">12</SimpleData>
+    <SimpleData name="svf">0.622394171860337</SimpleData>
+    <SimpleData name="area">8965.547077429815545</SimpleData>
+    <SimpleData name="perimeter">512.282528869982229</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55581333695554,47.2146497953787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">13</SimpleData>
+    <SimpleData name="svf">0.602184732123622</SimpleData>
+    <SimpleData name="area">8888.897098339968579</SimpleData>
+    <SimpleData name="perimeter">518.504112486657277</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55598028390683,47.2148554706967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">14</SimpleData>
+    <SimpleData name="svf">0.613666538820739</SimpleData>
+    <SimpleData name="area">9565.867188339587301</SimpleData>
+    <SimpleData name="perimeter">718.432219612529252</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.5561136491412,47.2150709707109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">15</SimpleData>
+    <SimpleData name="svf">0.605414140279932</SimpleData>
+    <SimpleData name="area">9435.534912496521429</SimpleData>
+    <SimpleData name="perimeter">700.832499679544526</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55621754529456,47.2152950922577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">16</SimpleData>
+    <SimpleData name="svf">0.609985805550502</SimpleData>
+    <SimpleData name="area">9443.858173514279770</SimpleData>
+    <SimpleData name="perimeter">515.760081034760788</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55632144231352,47.2155192136919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">17</SimpleData>
+    <SimpleData name="svf">0.661457831050459</SimpleData>
+    <SimpleData name="area">11760.808975230818760</SimpleData>
+    <SimpleData name="perimeter">795.435680850969675</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.5564253401981,47.2157433350135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">18</SimpleData>
+    <SimpleData name="svf">0.673799610740630</SimpleData>
+    <SimpleData name="area">12119.918703375464247</SimpleData>
+    <SimpleData name="perimeter">696.381067760493465</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.5565292389483,47.2159674562224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">19</SimpleData>
+    <SimpleData name="svf">0.720755658477524</SimpleData>
+    <SimpleData name="area">12754.324845069444564</SimpleData>
+    <SimpleData name="perimeter">823.822324157992512</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55663313856414,47.2161915773187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">20</SimpleData>
+    <SimpleData name="svf">0.698817613649264</SimpleData>
+    <SimpleData name="area">11982.262859786453191</SimpleData>
+    <SimpleData name="perimeter">618.096715334464193</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55673703904563,47.2164156983023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">21</SimpleData>
+    <SimpleData name="svf">0.644652972226262</SimpleData>
+    <SimpleData name="area">12213.988467595789189</SimpleData>
+    <SimpleData name="perimeter">574.223979395012975</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55684094039277,47.2166398191733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">22</SimpleData>
+    <SimpleData name="svf">0.672159498273492</SimpleData>
+    <SimpleData name="area">13014.191690235420538</SimpleData>
+    <SimpleData name="perimeter">683.314856769225912</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55694484260557,47.2168639399316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">23</SimpleData>
+    <SimpleData name="svf">0.714114892138416</SimpleData>
+    <SimpleData name="area">13706.088255501605090</SimpleData>
+    <SimpleData name="perimeter">796.427339155146683</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55704874568405,47.2170880605772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">24</SimpleData>
+    <SimpleData name="svf">0.700496466028042</SimpleData>
+    <SimpleData name="area">12283.367132505669360</SimpleData>
+    <SimpleData name="perimeter">652.098447956720179</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55709257736309,47.2173199250503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">25</SimpleData>
+    <SimpleData name="svf">0.685852915557740</SimpleData>
+    <SimpleData name="area">12278.869155700189367</SimpleData>
+    <SimpleData name="perimeter">648.787621517142384</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55711602834194,47.2175544168079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">26</SimpleData>
+    <SimpleData name="svf">0.729406351733259</SimpleData>
+    <SimpleData name="area">13086.472644949511960</SimpleData>
+    <SimpleData name="perimeter">857.272020723105015</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55713947952521,47.2177889085393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">27</SimpleData>
+    <SimpleData name="svf">0.726898479987650</SimpleData>
+    <SimpleData name="area">12219.180321517982520</SimpleData>
+    <SimpleData name="perimeter">621.989264591081792</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55716293091292,47.2180234002446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">28</SimpleData>
+    <SimpleData name="svf">0.744068147423961</SimpleData>
+    <SimpleData name="area">12132.955822986783460</SimpleData>
+    <SimpleData name="perimeter">613.957750079395737</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55718638250506,47.2182578919238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">29</SimpleData>
+    <SimpleData name="svf">0.760250060902868</SimpleData>
+    <SimpleData name="area">11732.516923340393987</SimpleData>
+    <SimpleData name="perimeter">647.843909057393034</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.5572025696949,47.2184911665345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">30</SimpleData>
+    <SimpleData name="svf">0.713326630411512</SimpleData>
+    <SimpleData name="area">11802.020542197837131</SimpleData>
+    <SimpleData name="perimeter">531.079357396226555</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55702218213432,47.2186915088368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">31</SimpleData>
+    <SimpleData name="svf">0.700576184417749</SimpleData>
+    <SimpleData name="area">12312.590865918733471</SimpleData>
+    <SimpleData name="perimeter">605.869597710266817</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55684179323023,47.2188918508427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">32</SimpleData>
+    <SimpleData name="svf">0.726725733468194</SimpleData>
+    <SimpleData name="area">13045.001581919177625</SimpleData>
+    <SimpleData name="perimeter">665.079655907830443</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55666140298262,47.2190921925522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">33</SimpleData>
+    <SimpleData name="svf">0.714595903292835</SimpleData>
+    <SimpleData name="area">12611.652264784119325</SimpleData>
+    <SimpleData name="perimeter">597.336049236488293</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55648101139145,47.2192925339654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">34</SimpleData>
+    <SimpleData name="svf">0.719214107202391</SimpleData>
+    <SimpleData name="area">12737.481430547475611</SimpleData>
+    <SimpleData name="perimeter">578.450566549305449</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55622884985015,47.2194522168347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">35</SimpleData>
+    <SimpleData name="svf">0.733697227682568</SimpleData>
+    <SimpleData name="area">13199.120359141361405</SimpleData>
+    <SimpleData name="perimeter">545.940236717885114</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55597263820442,47.219609605523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">36</SimpleData>
+    <SimpleData name="svf">0.752884831254822</SimpleData>
+    <SimpleData name="area">13758.898871762681665</SimpleData>
+    <SimpleData name="perimeter">546.020681115237721</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55571642505955,47.2197669936353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">37</SimpleData>
+    <SimpleData name="svf">0.787455968562448</SimpleData>
+    <SimpleData name="area">15740.677182207577061</SimpleData>
+    <SimpleData name="perimeter">598.425320015315606</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55546021041553,47.2199243811715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">38</SimpleData>
+    <SimpleData name="svf">0.826913192578430</SimpleData>
+    <SimpleData name="area">18470.309420402027172</SimpleData>
+    <SimpleData name="perimeter">722.597197111809919</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55520399427235,47.2200817681316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">39</SimpleData>
+    <SimpleData name="svf">0.865565242739422</SimpleData>
+    <SimpleData name="area">21193.039779004986485</SimpleData>
+    <SimpleData name="perimeter">853.239697221732399</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55494777663001,47.2202391545158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">40</SimpleData>
+    <SimpleData name="svf">0.853705081966650</SimpleData>
+    <SimpleData name="area">21323.431483682845283</SimpleData>
+    <SimpleData name="perimeter">768.363417825641363</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.5546915574885,47.2203965403238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">41</SimpleData>
+    <SimpleData name="svf">0.845493534852464</SimpleData>
+    <SimpleData name="area">20592.824697548308905</SimpleData>
+    <SimpleData name="perimeter">629.340889541056640</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.5544353368478,47.2205539255558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">42</SimpleData>
+    <SimpleData name="svf">0.840990644102455</SimpleData>
+    <SimpleData name="area">20110.212618591522187</SimpleData>
+    <SimpleData name="perimeter">603.748803626908739</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55417911470792,47.2207113102117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">43</SimpleData>
+    <SimpleData name="svf">0.842122556194727</SimpleData>
+    <SimpleData name="area">20278.623731496907567</SimpleData>
+    <SimpleData name="perimeter">595.805571880444404</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55392289106884,47.2208686942915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">44</SimpleData>
+    <SimpleData name="svf">0.852556879456368</SimpleData>
+    <SimpleData name="area">20940.339052732062555</SimpleData>
+    <SimpleData name="perimeter">598.722192451752449</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55366666593056,47.2210260777953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">45</SimpleData>
+    <SimpleData name="svf">0.871851843492559</SimpleData>
+    <SimpleData name="area">22104.649902960747568</SimpleData>
+    <SimpleData name="perimeter">599.131036528298523</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55343264501722,47.2211948747961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">46</SimpleData>
+    <SimpleData name="svf">0.884993915713726</SimpleData>
+    <SimpleData name="area">23435.848969796712481</SimpleData>
+    <SimpleData name="perimeter">620.035859365924580</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55328084247716,47.2214059335832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">47</SimpleData>
+    <SimpleData name="svf">0.910855968147398</SimpleData>
+    <SimpleData name="area">24397.848914224887267</SimpleData>
+    <SimpleData name="perimeter">637.393649942206594</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55312903874595,47.221616992154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">48</SimpleData>
+    <SimpleData name="svf">0.918579234154821</SimpleData>
+    <SimpleData name="area">24320.819221561618178</SimpleData>
+    <SimpleData name="perimeter">639.483913730618610</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55297723382356,47.2218280505087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">49</SimpleData>
+    <SimpleData name="svf">0.908276102209889</SimpleData>
+    <SimpleData name="area">24650.143159246788855</SimpleData>
+    <SimpleData name="perimeter">690.538735097675840</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55282542771,47.2220391086471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">50</SimpleData>
+    <SimpleData name="svf">0.899761911112853</SimpleData>
+    <SimpleData name="area">24027.008063674860750</SimpleData>
+    <SimpleData name="perimeter">741.231837398118046</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55271046323485,47.2222535575263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">51</SimpleData>
+    <SimpleData name="svf">0.880526748250327</SimpleData>
+    <SimpleData name="area">22554.878816230837401</SimpleData>
+    <SimpleData name="perimeter">802.453611332089736</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55277462197753,47.2224844925219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">52</SimpleData>
+    <SimpleData name="svf">0.864623966522721</SimpleData>
+    <SimpleData name="area">21147.205427911903826</SimpleData>
+    <SimpleData name="perimeter">798.453453062777271</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55283878127108,47.2227154274612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">53</SimpleData>
+    <SimpleData name="svf">0.866629780863438</SimpleData>
+    <SimpleData name="area">19419.967468049620948</SimpleData>
+    <SimpleData name="perimeter">673.836322646251574</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.5529029411155,47.2229463623441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">54</SimpleData>
+    <SimpleData name="svf">0.862266934108443</SimpleData>
+    <SimpleData name="area">18443.073579212974437</SimpleData>
+    <SimpleData name="perimeter">676.485992748812691</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55296710151078,47.2231772971708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">55</SimpleData>
+    <SimpleData name="svf">0.860560227346304</SimpleData>
+    <SimpleData name="area">17753.999243173144350</SimpleData>
+    <SimpleData name="perimeter">678.518112247791350</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55303126245695,47.223408231941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">56</SimpleData>
+    <SimpleData name="svf">0.874550445790601</SimpleData>
+    <SimpleData name="area">17028.576523591462319</SimpleData>
+    <SimpleData name="perimeter">691.335676388485922</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55309542395401,47.223639166655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">57</SimpleData>
+    <SimpleData name="svf">0.881453217519376</SimpleData>
+    <SimpleData name="area">17470.532775441206468</SimpleData>
+    <SimpleData name="perimeter">722.900583178113493</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55315958600196,47.2238701013125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">58</SimpleData>
+    <SimpleData name="svf">0.883294403857970</SimpleData>
+    <SimpleData name="area">17820.951212995216338</SimpleData>
+    <SimpleData name="perimeter">635.634849076601313</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55322374860081,47.2241010359138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">59</SimpleData>
+    <SimpleData name="svf">0.890342326653453</SimpleData>
+    <SimpleData name="area">18931.855066747019009</SimpleData>
+    <SimpleData name="perimeter">770.904993501973422</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55329870367751,47.2243279425582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">60</SimpleData>
+    <SimpleData name="svf">0.892129521859048</SimpleData>
+    <SimpleData name="area">19559.914428471478459</SimpleData>
+    <SimpleData name="perimeter">689.192839722613826</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.5535498601794,47.2244890851355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">61</SimpleData>
+    <SimpleData name="svf">0.895628488509499</SimpleData>
+    <SimpleData name="area">20017.670238193193654</SimpleData>
+    <SimpleData name="perimeter">778.715806944694691</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55380101818605,47.2246502271586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">62</SimpleData>
+    <SimpleData name="svf">0.896408675715614</SimpleData>
+    <SimpleData name="area">20648.010070407464809</SimpleData>
+    <SimpleData name="perimeter">698.604929171498725</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55405217769747,47.2248113686272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">63</SimpleData>
+    <SimpleData name="svf">0.915013312624088</SimpleData>
+    <SimpleData name="area">19980.986063676762569</SimpleData>
+    <SimpleData name="perimeter">756.474432223524445</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55430333871365,47.2249725095415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">64</SimpleData>
+    <SimpleData name="svf">0.926494306672372</SimpleData>
+    <SimpleData name="area">21125.368272410589270</SimpleData>
+    <SimpleData name="perimeter">723.791411201309074</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55455450123461,47.2251336499014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">65</SimpleData>
+    <SimpleData name="svf">0.925871680463117</SimpleData>
+    <SimpleData name="area">21317.438330903540191</SimpleData>
+    <SimpleData name="perimeter">647.527048626372107</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55479324217581,47.2253011381782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">66</SimpleData>
+    <SimpleData name="svf">0.933112567615816</SimpleData>
+    <SimpleData name="area">22504.091228872632200</SimpleData>
+    <SimpleData name="perimeter">604.756596845376635</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55495005596671,47.2255104933599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">67</SimpleData>
+    <SimpleData name="svf">0.927925957725892</SimpleData>
+    <SimpleData name="area">22421.816601649930817</SimpleData>
+    <SimpleData name="perimeter">708.205704939282327</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55510687097826,47.2257198483123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">68</SimpleData>
+    <SimpleData name="svf">0.909817473441472</SimpleData>
+    <SimpleData name="area">21044.131733118443663</SimpleData>
+    <SimpleData name="perimeter">852.664542884872844</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55526368721045,47.2259292030354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">69</SimpleData>
+    <SimpleData name="svf">0.873258446043142</SimpleData>
+    <SimpleData name="area">19322.339678836273379</SimpleData>
+    <SimpleData name="perimeter">781.027676060607746</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55542050466331,47.2261385575292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">70</SimpleData>
+    <SimpleData name="svf">0.859168485128512</SimpleData>
+    <SimpleData name="area">18735.191977852409764</SimpleData>
+    <SimpleData name="perimeter">778.836067478427481</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55533865374811,47.2263539954872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">71</SimpleData>
+    <SimpleData name="svf">0.857223668180795</SimpleData>
+    <SimpleData name="area">18686.029591464644909</SimpleData>
+    <SimpleData name="perimeter">757.949411482164351</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55520523954591,47.2265707475953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">72</SimpleData>
+    <SimpleData name="svf">0.864563006418371</SimpleData>
+    <SimpleData name="area">18911.392543668163853</SimpleData>
+    <SimpleData name="perimeter">841.998614311245660</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55507182426849,47.2267874995316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">73</SimpleData>
+    <SimpleData name="svf">0.852975300657690</SimpleData>
+    <SimpleData name="area">18517.506328169212793</SimpleData>
+    <SimpleData name="perimeter">735.674305363872804</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55493840791585,47.2270042512958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">74</SimpleData>
+    <SimpleData name="svf">0.849747785469279</SimpleData>
+    <SimpleData name="area">19122.739846739139466</SimpleData>
+    <SimpleData name="perimeter">790.062690624727907</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55474562261761,47.2271921756941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">75</SimpleData>
+    <SimpleData name="svf">0.843906816460198</SimpleData>
+    <SimpleData name="area">20005.774558972956584</SimpleData>
+    <SimpleData name="perimeter">611.685012360392079</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55448835193895,47.2273487881941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">76</SimpleData>
+    <SimpleData name="svf">0.878565906474209</SimpleData>
+    <SimpleData name="area">21155.871625385418156</SimpleData>
+    <SimpleData name="perimeter">682.131136007620398</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55423107976215,47.2275054001136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">77</SimpleData>
+    <SimpleData name="svf">0.912284792948125</SimpleData>
+    <SimpleData name="area">22188.117009071971552</SimpleData>
+    <SimpleData name="perimeter">675.199705808674707</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55397380608722,47.2276620114524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">78</SimpleData>
+    <SimpleData name="svf">0.919637753298447</SimpleData>
+    <SimpleData name="area">22987.251772494764737</SimpleData>
+    <SimpleData name="perimeter">678.282510051829831</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55371653091413,47.2278186222106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+  <ExtendedData><SchemaData schemaUrl="#indics">
+    <SimpleData name="gid">79</SimpleData>
+    <SimpleData name="svf">0.924311334229686</SimpleData>
+    <SimpleData name="area">23704.930267583855311</SimpleData>
+    <SimpleData name="perimeter">696.780929569388832</SimpleData>
+  </SchemaData></ExtendedData>
+      <Point><coordinates>-1.55345925424289,47.2279752323882</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

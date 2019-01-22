@@ -1,0 +1,6 @@
+{
+  "expectedPackageFilesKeys": ["map", "features", "shapes"],
+  "flipCoordinates": false,
+  "extractStreetview": false,
+  "extractStreetviewZoom": 2
+}
