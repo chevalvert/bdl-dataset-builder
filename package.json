@@ -1,6 +1,6 @@
 {
   "name": "bdl-dataset-builder",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "build and validate \"bassins de lumière\" datasets",
   "main": "index.js",
   "bin": {
